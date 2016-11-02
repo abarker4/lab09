@@ -65,6 +65,11 @@ img {
 	font-family: "geneva", arial, sans-serif;
 }
 
+.area3 p {
+	float: left;
+	max-width: 50%
+}
+
 .area4 {
 	padding: 20px;
 	background-color: #80ff80;
@@ -80,3 +85,5 @@ img {
 	text-decoration: none;
 	font-family: "geneva", arial, sans-serif;
 }
+
+
