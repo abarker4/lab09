@@ -45,11 +45,11 @@ img {
 	max-width: 100%;
 } 
 
-.area1 {
+.z-area1 {
 	padding: 10px;
 }
 
-.area2 {
+.z-area2 {
 	padding: 20px;
 	background-color: #80ff80;
 	text-align: center;
@@ -59,18 +59,18 @@ img {
 	margin-bottom: 10px;
 }
 
-.area2 a {
+.z-area2 a {
 	color: #001a00;
 	text-decoration: none;
 	font-family: "geneva", arial, sans-serif;
 }
 
-.area3 p {
+.z-area3 p {
 	float: left;
 	max-width: 50%
 }
 
-.area4 {
+.z-area4 {
 	padding: 20px;
 	background-color: #80ff80;
 	text-align: center;
@@ -80,7 +80,7 @@ img {
 	margin-bottom: 10px;
 }
 
-.area4 a {
+.z-area4 a {
 	color: #001a00;
 	text-decoration: none;
 	font-family: "geneva", arial, sans-serif;
