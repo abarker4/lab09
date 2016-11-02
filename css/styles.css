@@ -23,6 +23,11 @@ p { margin-top: 0; }
 	background-color: #ccffcc;
 }
 
+body {
+	font-family: "geneva", arial, sans-serif;
+}
+
+
 /*	****************************************
 	Modules (reusable classes)
 	**************************************** */
@@ -83,7 +88,6 @@ img {
 .z-area4 a {
 	color: #001a00;
 	text-decoration: none;
-	font-family: "geneva", arial, sans-serif;
 }
 
 
