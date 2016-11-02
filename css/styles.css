@@ -29,7 +29,7 @@ p { margin-top: 0; }
 .container {
 	margin: 0 auto;
 	width: 95%;
-	max-width: 960px; 
+	max-width: 960px;
 }
 
 .content {
@@ -45,6 +45,10 @@ img {
 	max-width: 100%;
 } 
 
+.area1 {
+	padding: 10px;
+}
+
 .area2 {
 	padding: 20px;
 	background-color: #80ff80;
@@ -56,6 +60,22 @@ img {
 }
 
 .area2 a {
+	color: #001a00;
+	text-decoration: none;
+	font-family: "geneva", arial, sans-serif;
+}
+
+.area4 {
+	padding: 20px;
+	background-color: #80ff80;
+	text-align: center;
+	display: inline-block;
+	float: right;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.area4 a {
 	color: #001a00;
 	text-decoration: none;
 	font-family: "geneva", arial, sans-serif;
