@@ -46,15 +46,17 @@ img {
 } 
 
 .area2 {
-	padding: 10px;
+	padding: 20px;
 	background-color: #80ff80;
 	text-align: center;
 	display: inline-block;
 	float: right;
-	margin-top: 30px;
+	margin-top: 20px;
+	margin-bottom: 10px;
 }
 
 .area2 a {
 	color: #001a00;
 	text-decoration: none;
+	font-family: "geneva", arial, sans-serif;
 }
