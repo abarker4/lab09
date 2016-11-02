@@ -118,10 +118,25 @@ img {
 	font-family: "geneva", arial, sans-serif;
 }
 
-.f-area3 p {
-	float: left;
-	max-width: 70%
+.f-area3 {
+	max-width: 100%;
 }
+
+.f-area3 p {
+	display: inline;
+	padding-left: 20px;
+}
+
+.f-area3 img {
+	float: left;
+	padding-bottom: 30px;
+}
+
+.f-area3 h3 {
+	padding-left: 15px;
+	font-weight: bold;
+}
+
 
 .f-area3 h2 {
 	text-align: center;
@@ -129,7 +144,8 @@ img {
 
 .platform-idea {
 	width: 100%;
-	background-color: red;
+	
+	display: inline-block;
 
 }
 
