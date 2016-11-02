@@ -120,16 +120,18 @@ img {
 
 .f-area3 {
 	max-width: 100%;
+	display: inline-block;
 }
 
 .f-area3 p {
 	display: inline;
-	padding-left: 20px;
+	padding-top: 10px;
 }
 
 .f-area3 img {
 	float: left;
 	padding-bottom: 30px;
+	padding-right: 15px;
 }
 
 .f-area3 h3 {
@@ -143,7 +145,7 @@ img {
 }
 
 .platform-idea {
-	width: 100%;
+	width: 70%;
 	
 	display: inline-block;
 
