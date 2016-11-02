@@ -151,7 +151,7 @@ img {
 
 }
 
-.f-area4 {
+/*.f-area4 {
 	padding: 20px;
 	background-color: #80ff80;
 	text-align: center;
@@ -164,12 +164,13 @@ img {
 .f-area4 a {
 	color: #001a00;
 	text-decoration: none;
-}
+}*/
 
 .platform-menu {
 	z-index: 1000; /* required - makes sure the menu doesn't get covered by anything else */
 	width: 100%; /* required - makes the menu go all the way across the viewport */
-	background-color: #ccc; 
+	background-color: #ccc;
+	display: inline-block;
 }
 
 .platform-menu ul {
