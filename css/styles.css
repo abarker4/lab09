@@ -60,3 +60,8 @@ img {
 	text-decoration: none;
 	font-family: "geneva", arial, sans-serif;
 }
+
+.area3 p {
+	float: left;
+	max-width: 50%
+}
