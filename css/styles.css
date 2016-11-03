@@ -150,7 +150,6 @@ img {
 
 .platform-idea {
 	width: 100%;
-	
 	display: inline-block;
 
 }
@@ -180,10 +179,8 @@ img {
 .platform-menu {
 	z-index: 1000; /* required - makes sure the menu doesn't get covered by anything else */
 	width: 100%; /* required - makes the menu go all the way across the viewport */
-
 	background-color: #ffad33; 
 	display: inline-block;
-
 }
 
 .platform-menu ul {
@@ -208,31 +205,45 @@ img {
 
 .column1 {
 	width: 40%;
-	margin-right: 10%;
+	
 	display: inline-block;
 }
 
 .column2 {
 	width: 40%;
-	margin-left: 9%;
+	
 	display: inline-block;
 
 }
 
 .card {
-	background-color: cyan;
+	background-color: #80ff80;
 	padding-bottom: 10px;
 	vertical-align: top;
 }
 
 .card img {
 	padding-left: 5%;
+	padding-top: 5%;
 }
 
 .card p {
 	width: 80%;
 	margin-left: 10%;
-	text-align: center;
-	background-color: yellow;
+	text-align: left;
+	
 }
 
+.card h2 {
+	text-align: center;
+}
+
+
+
+.sources {
+	padding: 30px;
+	margin-top: 30px;
+	width: 80%;
+	background-color: #ffad33;
+	margin-left: 10%; 
+}
