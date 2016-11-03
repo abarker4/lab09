@@ -87,17 +87,22 @@ img {
 
 .z-area3 p {
 	float: left;
-	max-width: 50%
+	max-width: 50%;
+	text-align: left;
+	background-color: #80ff80;
+	margin: 10px;
+	padding: 10px;
 }
 
 .z-area4 {
-	padding: 20px;
+	padding: 40px;
 	background-color: #ffad33;
 	text-align: center;
 	display: inline-block;
 	float: right;
-	margin-top: 20px;
-	margin-bottom: 10px;
+	margin-top: 5px;
+	
+	font-size: 2em;
 }
 
 .z-area4 a {
