@@ -163,7 +163,10 @@ img {
 .platform-idea {
 	width: 100%;
 	display: inline-block;
+}
 
+.platform-idea h3{
+	margin-top: 0px;
 }
 
 .f-area4 {
