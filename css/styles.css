@@ -155,7 +155,7 @@ img {
 
 }
 
-/*.f-area4 {
+.f-area4 {
 	padding: 20px;
 	background-color: #80ff80;
 	text-align: center;
@@ -167,7 +167,7 @@ img {
 .f-area4 a {
 	color: #001a00;
 	text-decoration: none;
-}*/
+}
 
 .main-menu {
 	background-color: #ffad33; 
