@@ -13,7 +13,7 @@ p { margin-top: 0; }
 	padding: 5px;
 }
 
-#logo {
+.logo {
 	float: left;
 	width: 30%;
 	height: auto;
